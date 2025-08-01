@@ -1,32 +1,53 @@
 # Bang & Olufsen Landing Page
 
+A responsive landing page inspired by Bang & Olufsen, built to practice modern layout techniques, animations, and clean code structure. The project focuses on adaptive design, smooth user experience, and scalable styles using Sass.
 
-## Overview
+## 🔗 Live Preview
+[View Live Site](https://koliiis.github.io/landing-page/)
 
-### The challenge
+## 🎨 Design Reference
+[Figma reference](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=meMpNOUnHmYMLfls-0).
 
-Users should be able to:
+## 🛠️ Technologies Used
 
-- Visit the website on different devices
-- Navigate through the website with links in the navigation bar
-- See animations and transitions to improve their experience
+  - Semantic HTML5
+  
+  - CSS3 – Flexbox & Grid
+  
+  - Sass preprocessor
+  
+  - BEM (Block Element Modifier) methodology
+  
+  - Mobile-first approach
 
-### Links
-  - [DEMO LINK](https://koliiis.github.io/landing-page/)
-  - [CODE LINK](https://github.com/koliiis/landing-page)
+## 🚀 Getting Started
+To run this project locally:
 
-## Process
+  ### 1. Clone the repository:
 
-### Built with
+    git clone https://github.com/koliiis/landing-page.git
+    cd landing-page
 
-  - Semantic HTML5 markup
-  - CSS3: Grid, Flexbox
-  - BEM methodology
-  - Preprocessors: Sass
-  - Mobile-first workflow
+  ### 2. Install dependencies:
 
-### What I learned
+    npm install
+  ### or
+    yarn install
 
-  - Learned how to apply grid to the whole page
-  - How to structure my code by separating everything into its file
-  - How to use most of the features of SASS (cycles, functions, mixins, etc.)
+  ### 3. Run the project:
+
+    npm start
+  ### or
+    yarn start
+
+## ✨ Features
+
+  - Fully responsive layout for mobile, tablet, and desktop
+
+  - Interactive navigation with smooth scrolling
+
+  - Scroll-based animations and transitions
+
+  - Modular SCSS structure with mixins, functions, and loops
+
+  - Clean and semantic HTML structure
